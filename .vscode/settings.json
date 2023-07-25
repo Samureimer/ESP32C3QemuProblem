@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32c3",
+    "idf.customExtraVars": {},
+    "idf.espIdfPathWin": "C:\\Users\\Mark\\esp\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-bridge.cfg"
+    ],
+    "idf.pythonBinPathWin": "python"
+}
